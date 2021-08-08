@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevKarlo
 - 👀 I’m interested in Java and other Languages
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Big Partners
 - 📫 How to reach me my Bussisnes Email is mcallofduty628@gmail.com
 
